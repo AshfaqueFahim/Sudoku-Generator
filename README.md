@@ -31,3 +31,4 @@ Three arrays (`a`, `b`, `c`) are randomly filled with the digits 1–9, three nu
 |------|-------------|
 | `Sudoku.java` | Main source file containing all logic |
 | `README.md` | This file |
+| `Fahim Ashfaqie - Design Document` | Design document explaining algorithm and step-by-step processes |
